@@ -1,0 +1,22 @@
+.photos__item {
+  object-fit: contain;
+  width: 284px;
+}
+
+@media screen and (min-width: 965px) and (max-width: 1200px) {
+  .photos__item {
+    width: 300px;
+  }
+}
+
+@media screen and (min-width: 741px) and (max-width: 965px) {
+  .photos__item {
+    width: 352px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 740px) {
+  .photos__item {
+    width: 288px;
+  }
+}

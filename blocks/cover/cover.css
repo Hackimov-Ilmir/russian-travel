@@ -1,0 +1,13 @@
+.cover {
+  position: relative;
+  max-width: 1184px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  text-align: center;
+  background-image: url(../../images/__background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}

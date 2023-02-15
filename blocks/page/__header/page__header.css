@@ -1,0 +1,27 @@
+.page__header {
+  margin: 0 48px 0 48px;
+  padding-top: 28px;
+  padding-bottom: 56px;
+}
+
+@media screen and (min-width: 965px) and (max-width: 1200px) {
+  .page__header {
+    padding-bottom: 48px;
+  }
+}
+
+@media screen and (min-width: 741px) and (max-width: 965px) {
+  .page__header {
+    margin: 0 24px 0 24px;
+    padding-bottom: 48px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 740px) {
+  .page__header {
+    margin: 0 16px 0 16px;
+    padding-bottom: 48px;
+    padding-top: 16px;
+    min-height: 42px;
+  }
+}

@@ -1,0 +1,16 @@
+.page__narrow {
+  margin: 0 auto;
+  max-width: 984px;
+}
+
+@media screen and (min-width: 965px) and (max-width: 1200px) {
+  .page__narrow {
+    max-width: 928px;
+  }
+}
+
+@media screen and (min-width: 741px) and (max-width: 965px) {
+  .page__narrow {
+    max-width: 768px;
+  }
+}

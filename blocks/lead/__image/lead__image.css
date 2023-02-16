@@ -7,13 +7,7 @@
   max-height: 615px;
 }
 
-@media screen and (min-width: 965px) and (max-width: 1200px) {
-  .lead__image {
-    padding-top: 56px;
-  }
-}
-
-@media screen and (min-width: 741px) and (max-width: 965px) {
+@media screen and (min-width: 741px) and (max-width: 1200px) {
   .lead__image {
     padding-top: 56px;
   }

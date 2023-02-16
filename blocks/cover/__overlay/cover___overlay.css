@@ -8,7 +8,6 @@
   max-width: 100%;
   position: relative;
   z-index: 1;
-  overflow: hidden;
   text-decoration: none;
   min-height: 740px;
 }
